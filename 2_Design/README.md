@@ -6,3 +6,7 @@
 ## DATA FLOW TRANSITION
 
 ![data flow trans](https://user-images.githubusercontent.com/86227942/164778002-ec9717f8-8aa1-4551-ba98-1e8b584fef0b.png)
+
+## FLOW CHART
+
+![flowchart](https://user-images.githubusercontent.com/86227942/164782778-8474b520-804a-4736-91d5-1f389626fde4.png)
