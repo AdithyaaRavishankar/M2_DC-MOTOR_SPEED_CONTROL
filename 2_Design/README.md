@@ -14,7 +14,9 @@
 
 ## FLOW CHART
 
-![flowchart](https://user-images.githubusercontent.com/86227942/164782778-8474b520-804a-4736-91d5-1f389626fde4.png)
+![flow2](https://user-images.githubusercontent.com/86227942/164802172-35ab08be-38f2-4e7e-bc08-d8a123122035.png)
+
+
 
 ## STATE TRANSITION DIAGRAM
 
