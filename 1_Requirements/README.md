@@ -15,4 +15,4 @@
 | ----- | ----------- | ------------------------------- |
 | LLR 1 |    Viewing the output in oscope |  Implemented  |
 | LLR 2 |    Speed of the dc motor is changed | Implemented |
-| LLR 3 |    Ptentiometer is used to vary the speed the dc motor | Implemented |
+| LLR 3 |    Potentiometer is used to vary the speed the dc motor | Implemented |
