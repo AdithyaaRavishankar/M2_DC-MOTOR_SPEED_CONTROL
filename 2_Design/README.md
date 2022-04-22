@@ -27,4 +27,5 @@
 
 ## SCHEMATIC DIAGRAM
 
-![SIMULATION](https://user-images.githubusercontent.com/86227942/164785468-c40bf52b-1ae5-4627-8c57-e322f7694e7c.png)
+![simul2](https://user-images.githubusercontent.com/86227942/164802745-eafcb721-71cb-40e8-95c3-8a2e8bf916f4.png)
+
