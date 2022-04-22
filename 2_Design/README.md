@@ -3,8 +3,8 @@
 
 ## BLOCK DIAGRAM
 
+![block 2](https://user-images.githubusercontent.com/86227942/164800470-4f0f9afe-b997-4fce-8f75-9106612fcabf.png)
 
-![block diageram1](https://user-images.githubusercontent.com/86227942/164773948-3589bf39-4ee1-4181-adb7-d415ae829aed.png)
 
 ## DATA FLOW TRANSITION
 
