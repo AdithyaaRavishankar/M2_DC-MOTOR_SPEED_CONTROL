@@ -1,4 +1,4 @@
-# The Test plan of this project is
+# TEST PLAN
 
 
 * To know the working Principle
@@ -9,7 +9,8 @@
 
 
 
-TEST CASES
+
+# TEST CASES
 
 
 |  ID   | Description | Test Cases|
