@@ -3,9 +3,9 @@
 
 |  ID   | Description | Status (Implemented/In Future) |
 | ----- | ----------- | ------------------------------ |
-| HLR 1 |    Dc motor was interfaced with Atmega328p using LM329  |  Implemented  |
+| HLR 1 |    Dc motor was interfaced with Atmega328p using L293 |  Implemented  |
 | HLR 2 |    Oscope interfaced with Atmega328p | Implemented |
-| HLR 3 |    LM329 interfaced using Atmega328p   | Implemented |
+| HLR 3 |    L293 interfaced using Atmega328p   | Implemented |
 | HLR 4 |    Potentiometer interfaced using Atmega328p  | Implemented |
 
 
