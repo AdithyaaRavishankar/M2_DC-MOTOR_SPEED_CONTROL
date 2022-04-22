@@ -14,3 +14,8 @@
 ## STATE TRANSITION DIAGRAM
 
 ![STATE TRANSITION DIAGRAM](https://user-images.githubusercontent.com/86227942/164784834-75733b0e-bfc3-4ed1-8cce-ad77232bc077.png)
+
+
+SCHEMATIC DIAGRAM
+
+![SIMULATION](https://user-images.githubusercontent.com/86227942/164785468-c40bf52b-1ae5-4627-8c57-e322f7694e7c.png)
