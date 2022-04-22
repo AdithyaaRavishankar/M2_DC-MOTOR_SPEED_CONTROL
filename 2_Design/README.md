@@ -10,3 +10,7 @@
 ## FLOW CHART
 
 ![flowchart](https://user-images.githubusercontent.com/86227942/164782778-8474b520-804a-4736-91d5-1f389626fde4.png)
+
+## STATE TRANSITION DIAGRAM
+
+![STATE TRANSITION DIAGRAM](https://user-images.githubusercontent.com/86227942/164784834-75733b0e-bfc3-4ed1-8cce-ad77232bc077.png)
