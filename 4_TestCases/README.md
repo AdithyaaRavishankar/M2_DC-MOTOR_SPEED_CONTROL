@@ -15,7 +15,7 @@
 
 |  ID   | Description | Test Cases|
 | ----- | ----------- | ------------------------------- |
-|  1 |    Switch  |  Passed |
+|  1 |    Potentiometer  |  Passed |
 | 2 |    DC Motor | Passed |
 |  3 |    oscope | Passed |
 
