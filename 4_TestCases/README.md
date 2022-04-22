@@ -25,10 +25,12 @@
 
 ## CIRCUIT IN OFF POSITION
 
-![off position](https://user-images.githubusercontent.com/86227942/164792429-842b0879-4768-4463-8ec8-57df76173648.png)
+![off2](https://user-images.githubusercontent.com/86227942/164803632-f01779a0-4119-41b6-88ef-f9fbd9eafc55.png)
+
 
 
 ## CIRCUIT IN ON POSITION
 
-![on position](https://user-images.githubusercontent.com/86227942/164792552-ba692134-7c21-4914-8b05-34257cb31fc2.png)
+![on2](https://user-images.githubusercontent.com/86227942/164803661-84a3507c-1471-4b5e-853a-6b55c0d7cccb.png)
+
 
