@@ -6,6 +6,7 @@
 
 
 # Badges
+Codacy - Static Code Analysis
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/60881d34482b4500a8d4662ebad5f95f)](https://www.codacy.com/gh/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL&amp;utm_campaign=Badge_Grade)
 
 Codiga - Grade
