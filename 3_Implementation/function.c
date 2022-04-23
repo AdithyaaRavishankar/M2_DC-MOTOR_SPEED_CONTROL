@@ -1,4 +1,4 @@
-#include "define.h"
+#include "def.h"
 
 void motors_pin_configuration(void){
 	motors_dir_ddr_reg |=((1<<motors_RF_pin)|(1<<motors_RB_pin)|(1<<motors_LB_pin)|(1<<motors_LF_pin));
