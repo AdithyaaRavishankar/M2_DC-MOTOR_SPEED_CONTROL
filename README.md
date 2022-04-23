@@ -14,6 +14,8 @@ Codiga - Static Analysis
 
 [![Build-Linux](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/linux.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/linux.yml)
 
+[![Build CI - Windows](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/Build%20Windows.yml)
+
 [![Cppcheck Analysis](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/c-cpp.yml)
 
 
