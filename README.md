@@ -1,4 +1,9 @@
-# M2_PROJECT
+# M2_DC-MOTOR_SPEED_CONTROL
+
+![BANNER OF PROJECT](https://user-images.githubusercontent.com/86227942/164884698-9bc7f42e-3448-4926-bbbd-9dd94352e39e.png)
+
+
+
 
 [![Build-Linux](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/linux.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/linux.yml)
 
