@@ -23,7 +23,8 @@
 
 ## STATE TRANSITION DIAGRAM
 
-![state2](https://user-images.githubusercontent.com/86227942/164802455-949b90b3-2ccb-4866-8bbb-47b9d9bce1d0.png)
+![state3](https://user-images.githubusercontent.com/86227942/164877567-77160bd5-d313-49a2-a524-519414a6d716.png)
+
 
 
 
