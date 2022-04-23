@@ -1,5 +1,5 @@
-#ifndef DEFINE_H
-#define DEFINE_H
+#ifndef DEF_H
+#define DEF_H
 #define motors_dir_ddr_reg DDRC
 #define motors_dir_port_reg PORTC
 #define motors_RB_pin PC3
@@ -25,6 +25,7 @@
 #define CS0_bit CS00
 #define CS1_bit CS01
 #define CS2_bit CS02
+
 void motors_pin_configuration();
 void pwm_pin_configuration();
 void motors_move_forward();
