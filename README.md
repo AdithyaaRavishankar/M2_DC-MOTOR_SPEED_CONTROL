@@ -24,6 +24,8 @@ Codiga - Static Analysis
 
 [![Valgrind](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/makefile.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/makefile.yml)
 
+[![Analysis](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/Analysis.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/Analysis.yml)
+
 
 
 ## OBJECTIVE OF THIS PROJECT 
