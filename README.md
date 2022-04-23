@@ -1,6 +1,6 @@
 # M2_DC-MOTOR_SPEED_CONTROL
 
-![Untitled](https://user-images.githubusercontent.com/86227942/164884865-dfb2de24-b387-4abd-b999-be7677ee3899.png)
+![banne](https://user-images.githubusercontent.com/86227942/164892125-75927b4d-8566-43c5-8406-ee42ca91367d.png)
 
 
 # Badges
