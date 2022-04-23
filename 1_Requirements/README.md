@@ -1,5 +1,7 @@
+# REQUIREMENTS
 
-## High Level Requirements:
+
+## High Level Requirements
 
 |  ID   | Description | Status (Implemented/In Future) |
 | ----- | ----------- | ------------------------------ |
@@ -9,7 +11,7 @@
 | HLR 4 |    Potentiometer interfaced using Atmega328p  | Implemented |
 
 
-## Low Level Requirements:
+## Low Level Requirements
 
 |  ID   | Description | Status (Implemented/ In Future) |
 | ----- | ----------- | ------------------------------- |
