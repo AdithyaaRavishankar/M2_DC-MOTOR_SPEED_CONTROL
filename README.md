@@ -6,10 +6,6 @@
 
 
 
-
-
-# REQUIREMENTS
-
 ## OBJECTIVE OF THIS PROJECT 
 
 The main objective of this project is to show that the speed of a dc motor can be changed in many ways wherein in this case a potentiometer is used to control the speed which is considered one of the best and easy method to do so.
