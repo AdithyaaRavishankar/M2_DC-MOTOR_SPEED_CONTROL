@@ -12,6 +12,7 @@ Codiga - Grade
 Codiga - Static Analysis
 ![Quality](https://api.codiga.io/project/33075/score/svg)
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/043da992467847f59021d1496a21e5b6)](https://app.codacy.com/gh/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL?utm_source=github.com&utm_medium=referral&utm_content=AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL&utm_campaign=Badge_Grade_Settings)
 [![Build-Linux](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/linux.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/linux.yml)
 
 [![Build CI - Windows](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/Build%20Windows.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/Build%20Windows.yml)
