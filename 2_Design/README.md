@@ -16,6 +16,7 @@
 
 ## FLOW CHART
 
+![flow3](https://user-images.githubusercontent.com/86227942/164876677-9a8612e1-bd00-4c98-ae97-248a7a7eb384.png)
 
 
 
