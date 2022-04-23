@@ -1,6 +1,6 @@
 # M2_DC-MOTOR_SPEED_CONTROL
 
-![BANNER OF PROJECT](https://user-images.githubusercontent.com/86227942/164884698-9bc7f42e-3448-4926-bbbd-9dd94352e39e.png)
+![Untitled](https://user-images.githubusercontent.com/86227942/164884865-dfb2de24-b387-4abd-b999-be7677ee3899.png)
 
 
 
