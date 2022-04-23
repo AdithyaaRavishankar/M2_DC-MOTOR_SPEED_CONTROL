@@ -22,7 +22,7 @@ Codiga - Static Analysis
 
 [![Contribution Check - Git Inspector](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/gitinspector.yml)
 
-[![Valgrind](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/makefile.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/makefile.yml)
+[![Valgrind](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/Valgrind-check.yml/badge.svg?branch=main)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/Valgrind-check.yml)
 
 [![Analysis](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/Analysis.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/Analysis.yml)
 
