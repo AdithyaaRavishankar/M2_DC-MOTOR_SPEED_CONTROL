@@ -7,6 +7,9 @@
 Codiga - Grade
 ![Quality](https://api.codiga.io/project/33075/status/svg)
 
+Codiga - Static Analysis
+![Quality](https://api.codiga.io/project/33075/score/svg)
+
 [![Build-Linux](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/linux.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/linux.yml)
 
 [![Cppcheck Analysis](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/c-cpp.yml)
