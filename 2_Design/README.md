@@ -2,8 +2,9 @@
 
 
 ## BLOCK DIAGRAM
+![block3](https://user-images.githubusercontent.com/86227942/164874635-6107506f-f324-43e2-afa8-1859cc9f652a.png)
 
-![block 2](https://user-images.githubusercontent.com/86227942/164800470-4f0f9afe-b997-4fce-8f75-9106612fcabf.png)
+
 
 
 ## DATA FLOW TRANSITION
