@@ -1,29 +1,35 @@
 # OBJECTIVE OF THIS PROJECT 
-An  Door Opener System is a simple project based on PROXIMITY Sensor and atmega328p, which automatically opens and closes the door by detecting a person or object.
 
-# INTRODUCTION:
-The door sensor is an essential component used in-home security system.When someone tries to open the door then these parts will get separated and breaks the circuit, So the control panel will activate to generate an alarm or blink an LED bulb.
-# CATEGORY:
-sensors use a reed switch & a magnet to decide the status of a door whether it is opened or closed.
+The main objective of this project is to show that the speed of a dc motor can be changed in many ways wherein in this case a potentiometer is used to control the speed which is considered one of the best and easy method to do so.
 
-# SENSOR MAINTENANCE:
-Based on the security system, we can able to modify the type of alert we get once a door opens. We may select a clear alarm for sound whenever a door opens or we can choose a LED blinking light.
+# INTRODUCTION
 
-# COMPONENTS AND SUPPLIES:
+DC motor speed control is one of the most useful features of a motor. By controlling the speed of the motor you can change the speed of the motor as per your requirement and get the required performance.The speed control mechanism is applicable in many cases like controlling the movement of robotic vehicles, movement of motors in paper mills and the movement of motors in elevators where different types of DC motors are used. Speed control of DC motor is one of the most useful features of the motor.
+
+# CATEGORY
+
+Potentiometer is used to change the speed of the dc motor.
+
+
+
+# COMPONENTS USED
+
 1.atmega328p 
 
-2.LED bulb 
+2.DC Motor
 
 3.Connecting Wires
 
-4.Resistors
+4.L293 Motor Driver
 
-5.5V Rail
+5.5V Voltage Source
 
-6.Switch
+6.Potentiometer
 
-7.Proximity sensor
+7.Oscope
 
-# ADVANTAGES:
-1. A door sensor lets you know if someone enters your house.
-2. You can also set it to emit an alarm that deters someone from entering.
+# ADVANTAGES
+
+1. DC motors offer highly controllable speed.
+2. By changing the armature or field voltage it's possible to achieve wide speed variation and with this level of controllability, DC motors offer the precision required by a wide range of industry applications.
+3. By controlling the speed of the motor you can change the speed of the motor as per your requirement and get the required performance.
