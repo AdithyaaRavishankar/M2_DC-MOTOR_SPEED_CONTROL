@@ -18,6 +18,7 @@ Codiga - Static Analysis
 
 [![Cppcheck Analysis](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/c-cpp.yml)
 
+[![Unit Testing - Unity](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/unit-test.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/unit-test.yml)
 
 
 ## OBJECTIVE OF THIS PROJECT 
