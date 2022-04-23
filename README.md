@@ -20,6 +20,8 @@ Codiga - Static Analysis
 
 [![Unit Testing - Unity](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/unit-test.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/unit-test.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/gitinspector.yml)
+
 
 ## OBJECTIVE OF THIS PROJECT 
 
