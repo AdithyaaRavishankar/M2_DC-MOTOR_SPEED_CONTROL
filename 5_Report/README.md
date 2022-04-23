@@ -111,23 +111,26 @@ Potentiometer is used to change the speed of the dc motor.
 
 ### * STRENGTH
 
- * IT IS LESS IN PRICE.
- * HELPS IN SECURITY SYSTEM.
- * TYPE OF ALERT WE GET ONCE THYE DOOR OPENS.
- * WE CAN CHOOSE ALARAM OR LED TO ACTIVATE.
+ * They are suitable for low-speed torque.
+ * They have adjustable speed.
+ * They offer a wide range of speed control both below and above the rated speed.
+ * They have a very high and strong starting torque.
+ * They are more affordable.
  
 ### * WEAKNESS
 
- * LIMITED RANGE.
+ * High Intial Cost
+ * Increased operation and maintenance cost due to the presence of commutator and brush gear.
+ * Cannot operate in explosive and hazard conditions due to sparking occur at brush (risk in commutation failure).
  
 ### * OPPORTUNITY
 
- * INTERNET OF THINGS(IOT).
- * DOOR SENSOR DEVICES MARKETT UPCOMING TRENDS.
+ * It has regenerative braking capacity.
+ * Good speed regulation.
  
 ### * THREATS
 
- * SENSOR DIS CONNECTION.
- * FAILURE OF THE COMPONENTS.
- * MORE POWER CONSUMPTION.
+ * Drive produced more noise.
+ * Costly arrangement is needed, floor space required is more.
+ * Low efficiency at light loads.
 
