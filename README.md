@@ -3,7 +3,9 @@
 ![Untitled](https://user-images.githubusercontent.com/86227942/164884865-dfb2de24-b387-4abd-b999-be7677ee3899.png)
 
 
-
+# Badges
+Codiga - Grade
+![Quality](https://api.codiga.io/project/33075/status/svg)
 
 [![Build-Linux](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/linux.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_PROJECT/actions/workflows/linux.yml)
 
