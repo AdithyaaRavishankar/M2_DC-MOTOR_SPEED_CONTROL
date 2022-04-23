@@ -1,8 +1,8 @@
 #define F_CPU 20000000L
 #include <xc.h>
 #include <util/delay.h>
-#include "define.h"
-#include "function.c"
+#include "def.h"
+#include "fun.c"
 
 
 int main()
@@ -12,9 +12,12 @@ int main()
 	timer_pwm_init();
 	motors_pin_configuration();
 	set_speed_of_motor(speed_of_motor, speed_of_motor);
+	//motors_move_forward();
+
 	while (1)
 	{
 		motors_move_forward();
+		//_delay_ms(10);
 	}
 	return 0;
 }
