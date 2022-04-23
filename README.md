@@ -22,6 +22,9 @@ Codiga - Static Analysis
 
 [![Contribution Check - Git Inspector](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/gitinspector.yml)
 
+[![Valgrind](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/makefile.yml/badge.svg)](https://github.com/AdithyaaRavishankar/M2_DC-MOTOR_SPEED_CONTROL/actions/workflows/makefile.yml)
+
+
 
 ## OBJECTIVE OF THIS PROJECT 
 
