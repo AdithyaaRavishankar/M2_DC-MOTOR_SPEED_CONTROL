@@ -94,3 +94,40 @@ Potentiometer is used to change the speed of the dc motor.
 
 ![simul2](https://user-images.githubusercontent.com/86227942/164802745-eafcb721-71cb-40e8-95c3-8a2e8bf916f4.png)
 
+## 4W & H  (WHO,WHAT,WHEN,WHERE,HOW)
+
+### * WHO:
+ * In growing Automation field Robots play a vital role where speed controller play a major role in controlling them.
+### * WHAT:
+ * The intentional change of drive speed is known as speed control of a DC motor. We can control the speed of DC motor manually or through an automatic control device
+### * WHEN:
+ * These are used when there is requirement of controlling the speed. 
+### * WHERE:
+ * They are widely used in many places such as Elevator, Robots, Air Compressor,Electric Traction.
+### * HOW:
+ * By varying the Potentiometer one can easily change the speed to the desired level.
+
+## * SWOT(STRENGTH,WEAKNESS,OPPORTUNITY,THREATS)
+
+### * STRENGTH
+
+ * IT IS LESS IN PRICE.
+ * HELPS IN SECURITY SYSTEM.
+ * TYPE OF ALERT WE GET ONCE THYE DOOR OPENS.
+ * WE CAN CHOOSE ALARAM OR LED TO ACTIVATE.
+ 
+### * WEAKNESS
+
+ * LIMITED RANGE.
+ 
+### * OPPORTUNITY
+
+ * INTERNET OF THINGS(IOT).
+ * DOOR SENSOR DEVICES MARKETT UPCOMING TRENDS.
+ 
+### * THREATS
+
+ * SENSOR DIS CONNECTION.
+ * FAILURE OF THE COMPONENTS.
+ * MORE POWER CONSUMPTION.
+
